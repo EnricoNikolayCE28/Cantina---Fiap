@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "giuliano",
+        "item": "6",
+        "status": "Preparando"
+    },
+    {
+        "nome": "enrico",
+        "item": "7",
+        "status": "Pronto"
+    },
+    {
+        "nome": "lucas",
+        "item": "8",
+        "status": "Pronto"
+    },
+    {
+        "nome": "enrico",
+        "item": "1",
+        "status": "Preparando"
+    },
+    {
+        "nome": "giuliano",
+        "item": "2",
+        "status": "Preparando"
+    },
+    {
+        "nome": "Lucas",
+        "item": "3",
+        "status": "Preparando"
+    },
+    {
+        "nome": "Eric",
+        "item": "4",
+        "status": "Preparando"
+    }
+]
