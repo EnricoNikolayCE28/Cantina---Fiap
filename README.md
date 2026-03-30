@@ -113,3 +113,4 @@ cancelamento de pedido
 Enrico Nikolay
 Giuliano Venceslau
 Lucas Sanson
+Eric Perez
