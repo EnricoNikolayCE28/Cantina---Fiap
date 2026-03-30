@@ -27,12 +27,14 @@ Buscar pedido por nome
 Editar pedido
 
 📋 Requisitos Funcionais
-RF01: O sistema deve permitir criar pedidos.
-RF02: O sistema deve permitir listar pedidos cadastrados.
-RF03: O sistema deve permitir atualizar o status de um pedido.
-RF04: O sistema deve permitir cancelar pedidos.
-RF05: O sistema deve permitir buscar pedidos pelo nome do aluno.
-RF06: O sistema deve permitir editar o item de um pedido existente.
+- RF01: O sistema deve permitir cadastrar um novo pedido informando nome do aluno e item solicitado.
+- RF02: O sistema deve permitir listar todos os pedidos cadastrados.
+- RF03: O sistema deve permitir atualizar o status de um pedido para “Pronto”.
+- RF04: O sistema deve permitir cancelar um pedido existente.
+- RF05: O sistema deve permitir buscar pedidos pelo nome do aluno.
+- RF06: O sistema deve permitir editar o item de um pedido já cadastrado.
+- RF07: O sistema deve validar se os campos obrigatórios foram preenchidos antes de registrar ou editar um pedido.
+- RF08: O sistema deve salvar e recuperar os pedidos por meio de um arquivo JSON, mantendo os dados entre execuções.
 
 ⚙️ Requisitos Não Funcionais
 RNF01: O sistema deve funcionar via terminal.
