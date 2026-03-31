@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "enrico",
+        "item": "coxinha",
+        "status": "Preparando"
+    },
+    {
+        "nome": "giuliano",
+        "item": "refri",
+        "status": "Pronto"
+    },
+    {
+        "nome": "lucas",
+        "item": "salgadinho",
+        "status": "Preparando"
+    },
+    {
+        "nome": "eric",
+        "item": "bala",
+        "status": "Preparando"
+    }
+]
