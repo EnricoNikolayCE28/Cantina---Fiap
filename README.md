@@ -153,29 +153,6 @@ Cantina-FIAP/
 
 ---
 
-## 📸 Demonstração
-
-Adicionar aqui:
-
-* prints do sistema funcionando
-  ou
-
-* link para vídeo curto demonstrando:
-
-* criação de pedido
-
-* listagem de pedidos
-
-* busca por nome
-
-* edição de pedido
-
-* atualização de status
-
-* cancelamento de pedido
-
----
-
 ## 👨‍💻 Integrantes do Grupo
 
 * Enrico Nikolay
