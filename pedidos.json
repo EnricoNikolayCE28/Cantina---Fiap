@@ -18,5 +18,37 @@
         "nome": "eric",
         "item": "bala",
         "status": "Preparando"
+    },
+    {
+        "nome": "Enrico",
+        "item": "Água",
+        "preco_unitario": 4.0,
+        "quantidade": 2,
+        "total": 8.0,
+        "status": "Preparando"
+    },
+    {
+        "nome": "Eric",
+        "item": "Chocolate",
+        "preco_unitario": 6.5,
+        "quantidade": 2,
+        "total": 13.0,
+        "status": "Preparando"
+    },
+    {
+        "nome": "Giuliano",
+        "item": "Pão de queijo",
+        "preco_unitario": 6.0,
+        "quantidade": 13,
+        "total": 78.0,
+        "status": "Preparando"
+    },
+    {
+        "nome": "Lucas",
+        "item": "Suco natural",
+        "preco_unitario": 10.0,
+        "quantidade": 3,
+        "total": 30.0,
+        "status": "Preparando"
     }
 ]
